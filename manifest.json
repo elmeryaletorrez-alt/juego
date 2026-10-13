@@ -1,0 +1,16 @@
+{
+  "name": "Zombies vs Ciencias de la Educacion",
+  "short_name": "ZombiesEd",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#1a1a2e",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
